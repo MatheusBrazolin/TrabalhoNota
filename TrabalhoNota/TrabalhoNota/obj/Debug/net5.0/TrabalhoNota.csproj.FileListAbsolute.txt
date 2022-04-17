@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\Curso Generation\TrabalhoNota\TrabalhoNota\TrabalhoNota\bin\Debug\net5.0\TrabalhoNota.exe
+C:\Users\Usuario\Documents\Curso Generation\TrabalhoNota\TrabalhoNota\TrabalhoNota\bin\Debug\net5.0\TrabalhoNota.deps.json
+C:\Users\Usuario\Documents\Curso Generation\TrabalhoNota\TrabalhoNota\TrabalhoNota\bin\Debug\net5.0\TrabalhoNota.runtimeconfig.json
+C:\Users\Usuario\Documents\Curso Generation\TrabalhoNota\TrabalhoNota\TrabalhoNota\bin\Debug\net5.0\TrabalhoNota.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Curso Generation\TrabalhoNota\TrabalhoNota\TrabalhoNota\bin\Debug\net5.0\TrabalhoNota.dll
+C:\Users\Usuario\Documents\Curso Generation\TrabalhoNota\TrabalhoNota\TrabalhoNota\bin\Debug\net5.0\TrabalhoNota.pdb
+C:\Users\Usuario\Documents\Curso Generation\TrabalhoNota\TrabalhoNota\TrabalhoNota\obj\Debug\net5.0\TrabalhoNota.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Curso Generation\TrabalhoNota\TrabalhoNota\TrabalhoNota\obj\Debug\net5.0\TrabalhoNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Curso Generation\TrabalhoNota\TrabalhoNota\TrabalhoNota\obj\Debug\net5.0\TrabalhoNota.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Curso Generation\TrabalhoNota\TrabalhoNota\TrabalhoNota\obj\Debug\net5.0\TrabalhoNota.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Curso Generation\TrabalhoNota\TrabalhoNota\TrabalhoNota\obj\Debug\net5.0\TrabalhoNota.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Curso Generation\TrabalhoNota\TrabalhoNota\TrabalhoNota\obj\Debug\net5.0\TrabalhoNota.dll
+C:\Users\Usuario\Documents\Curso Generation\TrabalhoNota\TrabalhoNota\TrabalhoNota\obj\Debug\net5.0\refint\TrabalhoNota.dll
+C:\Users\Usuario\Documents\Curso Generation\TrabalhoNota\TrabalhoNota\TrabalhoNota\obj\Debug\net5.0\TrabalhoNota.pdb
+C:\Users\Usuario\Documents\Curso Generation\TrabalhoNota\TrabalhoNota\TrabalhoNota\obj\Debug\net5.0\TrabalhoNota.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Curso Generation\TrabalhoNota\TrabalhoNota\TrabalhoNota\obj\Debug\net5.0\ref\TrabalhoNota.dll
